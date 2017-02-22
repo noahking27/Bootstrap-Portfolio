@@ -1,0 +1,61 @@
+body {
+    background-image: url("../images/dark_embroidery.png");
+}
+
+p {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1,
+h2 {
+    color: #4aaaa5;
+}
+
+footer {
+    background-image: url("../images/brickwall.png");
+    height: 3em;
+    text-align: center;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    padding-top: 1em;
+}
+
+#main {
+    background-color: white;
+    margin-top: 5em;
+}
+
+#sidebar {
+    background-color: white;
+    margin-top: 5em;
+}
+
+#Noah {
+    margin-bottom: 1em;
+}
+
+.connectImg {
+    height: 4em;
+    width: 4em;
+    position: relative;
+    left: 4em;
+    margin-bottom: 2em;
+}
+
+.greyBorder {
+    border-bottom-style: solid;
+    border-bottom-width: thick;
+    border-color: #cccccc
+}
+
+#navbar {
+    background-image: url("../images/brickwall.png");
+}
+
+.portImg {
+    height: 15em;
+    width: 15em;
+}
