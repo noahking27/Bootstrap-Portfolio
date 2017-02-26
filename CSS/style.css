@@ -5,6 +5,7 @@ body {
 }
 
 p {
+    margin-left: 7em;
     color: black;
     font-family: 'Raleway', sans-serif;
 }
@@ -27,6 +28,12 @@ footer {
 #contactFooter {
     position: fixed;
     bottom: 0;
+}
+
+.textwrap {
+    float:left;
+    margin:5px;
+
 }
 
 #main {
